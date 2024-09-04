@@ -1,0 +1,9 @@
+.tytle_comment {
+    background-color: #0c08f7; /* Светлый фон */
+  border: 1px solid #ccc; /* Граница */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Тень */
+  padding: 10px;
+  border-radius: 4px;
+  max-width: 600px; /* Ограничение ширины */
+  color: aliceblue;
+}

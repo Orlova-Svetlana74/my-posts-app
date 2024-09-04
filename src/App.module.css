@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.appstyle {
+  color: #4676D7;
+  font-size: 60px;
+}
+
+.postblock {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
